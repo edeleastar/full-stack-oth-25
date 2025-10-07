@@ -5,6 +5,7 @@ moodle: https://elearning.oth-regensburg.de/course/view.php?id=7351
 zoom: https://setu-ie.zoom.us/my/edeleastar
 auth: 1
 llm: 2
+hideVideos: true
 ignorepin: 2125
 icon:
   type: la:server
