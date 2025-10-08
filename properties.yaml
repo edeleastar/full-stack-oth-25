@@ -6,7 +6,6 @@ zoom: https://setu-ie.zoom.us/my/edeleastar
 youtube: https://www.youtube.com/playlist?list=PLEuhMaR29LyDRxN59DRFyGFpCA9_4ukqO
 auth: 1
 llm: 2
-hideVideos: true
 ignorepin: 2125
 icon:
   type: la:server
